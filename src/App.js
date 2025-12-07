@@ -114,7 +114,7 @@ const DawgPresentation = () => {
           </div>
           <div style={styles.grid2}>
             <div>
-              <img src="/images/2.jpg" alt="Subject in retail environment" style={{ ...styles.img, height: '16rem' }} />
+              <img src="/images/2.JPG" alt="Subject in retail environment" style={{ ...styles.img, height: '16rem' }} />
               <p style={{ fontSize: '0.75rem', color: '#6b7280', textAlign: 'center', marginTop: '0.5rem' }}>Figure 1.1: Subject displaying casual confidence</p>
             </div>
             <div style={{ display: 'flex', flexDirection: 'column', gap: '1rem' }}>
@@ -194,7 +194,7 @@ const DawgPresentation = () => {
               </div>
             </div>
             <div>
-              <img src="/images/1.jpg" alt="Ultimate action shot" style={styles.img} />
+              <img src="/images/1.JPG" alt="Ultimate action shot" style={styles.img} />
               <p style={{ fontSize: '0.75rem', color: '#6b7280', textAlign: 'center', marginTop: '0.5rem' }}>Figure 3.1: Mid-game defensive intensity captured</p>
             </div>
           </div>
@@ -294,7 +294,7 @@ const DawgPresentation = () => {
               </ul>
             </div>
             <div>
-              <img src="/images/3.jpg" alt="International documentation" style={styles.img} />
+              <img src="/images/3.JPG" alt="International documentation" style={styles.img} />
               <p style={{ fontSize: '0.75rem', color: '#6b7280', textAlign: 'center', marginTop: '0.5rem' }}>Figure 6.1: Subject maintaining excellence abroad</p>
             </div>
             <div style={{ backgroundColor: '#fff7ed', padding: '1rem', borderRadius: '0.5rem', border: '2px solid #ea580c' }}>
@@ -320,7 +320,7 @@ const DawgPresentation = () => {
         <div style={{ display: 'flex', flexDirection: 'column', gap: '1.5rem' }}>
           <div style={styles.grid2}>
             <div>
-              <img src="/images/4.jpg" alt="The Champion" style={{ ...styles.img, height: '100%' }} />
+              <img src="/images/4.JPG" alt="The Champion" style={{ ...styles.img, height: '100%' }} />
               <p style={{ fontSize: '0.75rem', color: '#6b7280', textAlign: 'center', marginTop: '0.5rem' }}>Figure 7.1: Peak DAWG energy documented in Brussels</p>
             </div>
             <div style={{ display: 'flex', flexDirection: 'column', gap: '1rem' }}>
