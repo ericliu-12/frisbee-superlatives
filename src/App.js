@@ -114,7 +114,7 @@ const DawgPresentation = () => {
           </div>
           <div style={styles.grid2}>
             <div>
-              <img src="/images/2.JPG" alt="Subject in retail environment" style={{ ...styles.img, height: '16rem' }} />
+              <img src="/images/2.jpg" alt="Subject in retail environment" style={{ ...styles.img, height: '16rem' }} />
               <p style={{ fontSize: '0.75rem', color: '#6b7280', textAlign: 'center', marginTop: '0.5rem' }}>Figure 1.1: Subject displaying casual confidence</p>
             </div>
             <div style={{ display: 'flex', flexDirection: 'column', gap: '1rem' }}>
